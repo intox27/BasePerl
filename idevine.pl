@@ -37,3 +37,4 @@ else
         print "C'est un chat !\n";
     }
 }
+<>;
